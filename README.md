@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution URL: [@GitHub](https://github.com/xdelmo/notes-app)
-- Live Site URL: [@Netlify](https://notes-app-xdelmo.netlify.app/)
+- Solution URL: [@GitHub](https://github.com/Filimon111/Notes-App)
+- Live Site URL: [@Netlify](https://notes-app-by-filimon.netlify.app/)
 
 ### Getting Started with Create React App
 
